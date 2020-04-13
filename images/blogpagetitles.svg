@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="BlogPage" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 201 99" style="enable-background:new 0 0 201 99;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);stroke:#020202;stroke-miterlimit:10;}
+	.st1{fill:url(#SVGID_2_);stroke:#020202;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:6;}
+	.st2{font-family:'ARBERKLEY';}
+	.st3{font-size:64.34px;}
+</style>
+<g id="Title">
+	<radialGradient id="SVGID_1_" cx="100.5" cy="49.5" r="106.4448" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="0.1229" style="stop-color:#EAC9E0"/>
+		<stop  offset="0.7497" style="stop-color:#CC7AB4"/>
+	</radialGradient>
+	<path class="st0" d="M187.84,99H13.16C5.89,99,0,93.11,0,85.84V13.16C0,5.89,5.89,0,13.16,0h174.68C195.11,0,201,5.89,201,13.16
+		v72.68C201,93.11,195.11,99,187.84,99z"/>
+	
+		<radialGradient id="SVGID_2_" cx="100.5" cy="48.4525" r="95.6925" gradientTransform="matrix(1 0 0 0.9326 0 6.3132)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="0.1229" style="stop-color:#EAC9E0"/>
+		<stop  offset="0.7497" style="stop-color:#CC7AB4"/>
+	</radialGradient>
+	<path class="st1" d="M177.69,93H23.31c-7.27,0-13.16-5.89-13.16-13.16V23.16c0-7.27,5.89-13.16,13.16-13.16h154.38
+		c7.27,0,13.16,5.89,13.16,13.16v56.68C190.85,87.11,184.96,93,177.69,93z"/>
+	<g>
+		<text transform="matrix(1 0 0 1 32.2324 67.2334)" class="st2 st3">Blog</text>
+	</g>
+</g>
+</svg>

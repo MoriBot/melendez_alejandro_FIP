@@ -45,9 +45,18 @@ text-decoration:none;
   margin: 0 auto;
 }
 
-.titles
+.blogtitle
 {
   width: 200px;
+  height: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 25px;
+}
+
+.contacttitle
+{
+  width: 360px;
   height: 200px;
   margin-left: auto;
   margin-right: auto;
@@ -111,7 +120,7 @@ text-decoration:none;
   flex-direction: column;
   justify-content: flex-start;
   margin-top: 10px;
-  margin-bottom: 30px;
+  margin-bottom: 0px;
   background: rgba(204,122,180,.6);
   border-radius: 20px;
 }
@@ -176,7 +185,7 @@ text-decoration:none;
 
 .blogtitle 
 {
-  margin-top: 25px;
+  margin-top: 40px;
   text-align: center;
 }
 
@@ -186,7 +195,7 @@ text-decoration:none;
   background-image: url("../images/moana.jpg");
   background-repeat: no-repeat;
   background-size: contain;
-  width: 600px;
+  width: 800px;
   height: 200px;
   background-position: left;
   margin-left: 140px;
@@ -198,7 +207,7 @@ text-decoration:none;
   margin-top: 10px;
   line-height: 20px;
   font-size: 20px;
-  margin-left: 200px;
+  margin-left: 400px;
   margin-right: 0px;
   margin-top: 10px;
   margin-bottom: 10px;
@@ -210,7 +219,7 @@ text-decoration:none;
   background-image: url("../images/flowers.jpg");
   background-repeat: no-repeat;
   background-size: contain;
-  width: 600px;
+  width: 800px;
   height: 200px;
   background-position: left;
   margin-left: 140px;
@@ -222,7 +231,7 @@ text-decoration:none;
   margin-top: 10px;
   line-height: 20px;
   font-size: 20px;
-  margin-left: 200px;
+  margin-left: 400px;
   margin-right: 0px;
   margin-top: 10px;
   margin-bottom: 10px;
@@ -234,7 +243,7 @@ text-decoration:none;
   background-image: url("../images/R-uneek.jpg");
   background-repeat: no-repeat;
   background-size: contain;
-  width: 600px;
+  width: 800px;
   height: 200px;
   background-position: left;
   margin-left: 140px;
@@ -246,7 +255,7 @@ text-decoration:none;
   margin-top: 10px;
   line-height: 20px;
   font-size: 20px;
-  margin-left: 200px;
+  margin-left: 400px;
   margin-right: 0px;
   margin-top: 10px;
   margin-bottom: 10px;
@@ -258,7 +267,7 @@ text-decoration:none;
   background-image: url("../images/cars3.jpg");
   background-repeat: no-repeat;
   background-size: contain;
-  width: 600px;
+  width: 800px;
   height: 200px;
   background-position: left;
   margin-left: 140px;
@@ -270,7 +279,7 @@ text-decoration:none;
   margin-top: 10px;
   line-height: 20px;
   font-size: 20px;
-  margin-left: 200px;
+  margin-left: 400px;
   margin-right: 0px;
   margin-top: 10px;
   margin-bottom: 10px;
@@ -279,12 +288,20 @@ text-decoration:none;
 .contact
 {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   justify-content: flex-start;
   margin-top: 10px;
-  margin-bottom: 30px;
+  margin-bottom: 50px;
   background: rgba(204,122,180,.6);
   border-radius: 20px;
+}
+
+.callus, .hours, .location
+{
+  text-align: center;
+  font-size: 18px;
+  margin-bottom: 10px;
+  margin-left: 20px;
 }
 
 .mainFooter {
